@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Tilda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tilda.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
